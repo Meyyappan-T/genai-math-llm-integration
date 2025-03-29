@@ -86,7 +86,8 @@ print("Result:", result)
 
 
 ### OUTPUT:
-![image](./Screen%20Shot%201947-01-07%20at%2020.41.46.png)
+![image](https://github.com/user-attachments/assets/be911b7e-384c-47e5-b963-425eb4483b71)
+
 
 ### RESULT:
 The system successfully calculates the cylinder volume based on user input and handles errors for invalid values. It integrates with an LLM to extract and process radius and height from user queries. Overall, it provides an interactive and efficient way to compute cylinder volumes with robust error handling.
